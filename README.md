@@ -976,7 +976,7 @@ print("run[CQ:image,file="+j["img"]+"]")
 4. 前往 Release 页面发布一个 Release，`tag`形如`v1.2.3`，以触发稳定版编译流程
 5. 点击 Actions 按钮，等待编译完成，回到 Release 页面下载编译好的文件
 6. 运行 OneBot 框架，并同时运行本插件
-7. 啾咪~
+7. 啾咪~~
 
 #### b. 本地编译/交叉编译
 
